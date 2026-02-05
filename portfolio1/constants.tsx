@@ -8,14 +8,14 @@ export const PROJECTS: Project[] = [
     description: "Full-stack app with secure auth, live updates, and admin dashboard.",
     tags: ["HTML", "CSS", "JavaScript", "FireBase", "ML"],
     github: "https://github.com/solvfpz/smart-geo-campus",
-    image: "/components/image3.png"
+    image: "/image3.png"
   },
   {
     title: "CurrencyConverterBot",
     description: "A lightweight bot that converts currencies in real time using live exchange rates, allowing users to instantly convert amounts with simple commands.",
     tags: ["JavaScript", "API Integration", "Real-time Data", "Bot Development", "Automation"],
     github: "https://github.com/solvfpz/currencyconverterbot",
-    image: "/components/image2.jpg"
+    image: "/image2.jpg"
   },
 ];
 
